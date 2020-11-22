@@ -1,0 +1,6 @@
+lab4-par
+.ipynb*
+*.log
+lab4*
+!lab4.c
+!lab4-dop.c
